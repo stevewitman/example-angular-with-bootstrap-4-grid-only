@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ex-bootstrap-four-grid-system-only"
+    }
+  },
+  "defaultProject": "ex-bootstrap-four-grid-system-only",
+  "cli": {
+    "analytics": false
+  }
 }
