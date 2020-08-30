@@ -123,6 +123,10 @@
               "devServerTarget": "ex-bootstrap-four-grid-system-only:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {}
         }
       }
     }
