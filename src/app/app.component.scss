@@ -1,0 +1,40 @@
+.docs {
+  font-size: 0.75em;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+.col {
+  border: solid 1px darksalmon;
+}
+
+.row {
+  background-color: lightpink;
+  border: solid 1px green;
+}
+
+.row-taller {
+  height: 80px;
+}
+
+section {
+  padding: 10px;
+}
+
+.highlight-div {
+  background-color: lightpink;
+  border: solid 1px green;
+}
